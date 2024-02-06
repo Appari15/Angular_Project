@@ -1,0 +1,42 @@
+/* Global Styles */
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 20px;
+}
+
+/* Form Styles */
+#submitButton {
+    margin-top: 20px;
+}
+
+#myCheckbox {
+    margin-left: 30px;
+}
+
+#submitForm {
+    margin-top: 40px;
+}
+
+/* Task Table Styles */
+#taskInTable {
+    max-width: 300px;
+}
+
+.action-button {
+    width: 60px;
+}
+
+/* Edit Mode Styles */
+.edit {
+    border: solid 2px orange;
+}
+
+.not-edit {
+    border: none;
+}
+
+/* Completed Task Styles */
+.crossed {
+    text-decoration: line-through;
+}
