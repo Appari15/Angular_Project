@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+.container {
+    /* Set background image */
+    background-image: url('sean-sinclair-C_NJKfnTR5A-unsplash.jpg');
+    
+    /* Set background size */
+    background-size: cover;
+    
+    /* Set background repeat */
+    background-repeat: no-repeat;
+    
+    /* Set background position */
+    background-position: center;
+  
+    /* Additional styles */
+    padding: 15%; /* Add padding */
+    color: white; /* Set text color to white */
+  }
