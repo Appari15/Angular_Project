@@ -11,8 +11,12 @@
     
     /* Set background position */
     background-position: center;
+
+    /* Background image is fixed in the viewport so that it doesn't move when
+    the content's height is greater than the image's height */
+    background-attachment: fixed;
   
     /* Additional styles */
     padding: 15%; /* Add padding */
-    color: white; /* Set text color to white */
+    color: rgb(10, 10, 10); /* Set text color to white */
   }
